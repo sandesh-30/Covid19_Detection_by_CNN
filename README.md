@@ -6,3 +6,4 @@ https://github.com/Bhasin-IEOR
 https://github.com/Sandesh-30
 
 This project aims at detecting COVID-19 positive cases through chest X-Ray images using Convolutional Neural Networks
+Achieved an accuracy of 93.8% using ADAM optimizer
