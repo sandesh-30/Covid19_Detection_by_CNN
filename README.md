@@ -1,7 +1,8 @@
 # Covid19_Detection_by_CNN
 CNN based approach for Covid-19 detection 
 
-Project Team :
+Project team members and contributors :
+
 <a href="https://github.com/Sandesh-30/">Sandesh Gaikwad</a>.
 
 <a href="https://github.com/UKonge/">Utkarsh Konge</a>.
