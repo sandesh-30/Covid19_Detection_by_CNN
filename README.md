@@ -2,7 +2,7 @@
 CNN based approach for Covid-19 detection 
 <details">
 Project Team :
-
+<a href="https://github.com/UKonge/">This is a link</a>.
 [a link] (https://github.com/UKonge)
 https://github.com/Bhasin-IEOR
 https://github.com/Sandesh-30
