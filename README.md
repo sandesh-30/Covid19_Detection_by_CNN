@@ -23,4 +23,5 @@ Project team members and contributors :
 
 
 
--_Thank You for visiting [Sandesh Gaikwad](https://github.com/Sandesh-30/) ❤️
+Thank You for visiting 
+[Sandesh Gaikwad](https://github.com/Sandesh-30/) ❤️
