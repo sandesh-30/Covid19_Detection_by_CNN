@@ -28,7 +28,7 @@ The CNN architecture we implemented is inspired from this research paper by Emra
 
 ## Key highlights 
 * Developed Convolutional Neural Network (CNN) based approach for binary classification of Covid-19 patients through chest X-rays
-* Trained the 12 layered CNN model on 7000+ X-rays and achieved an accuracy of 96.13% and AUC-ROC score of 0.95 on test data
+* Trained the 9 layered CNN model on 7000+ X-rays and achieved an accuracy of 96.13% and AUC-ROC score of 0.95 on test data
 
 
 
